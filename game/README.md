@@ -1,7 +1,8 @@
 #Steps to run application locally
-#   1. npm install -g @angular/cli
-#   2. npm i
-#   3. ng serve
+#   1. Change directory to game i.e. cd game
+#   2. npm install -g @angular/cli
+#   3. npm i
+#   4. ng serve
 
 
 
