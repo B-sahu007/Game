@@ -1,3 +1,10 @@
+#Steps to run application locally
+#   1. npm install -g @angular/cli
+#   2. npm i
+#   3. ng serve
+
+
+
 # Game
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
